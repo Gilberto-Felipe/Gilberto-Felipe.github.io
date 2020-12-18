@@ -2,7 +2,7 @@
 
 I'm a Software Engineer based in Colima, Mexico.
 
-From Philosophy to Software Engineering. I graduated from a B.A. in Philosophy. I'm passionate about learning, discovering and creating new things. 
+From Philosophy to Software Engineering. I graduated from Philosophy. I'm passionate about learning, discovering and creating new things. 
 
 [Resume](http:gilberto-ramirez.me/cv)
 

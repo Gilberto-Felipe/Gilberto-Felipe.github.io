@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Gilberto Ramirez's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/Gilberto-Felipe/Gilberto-Felipe.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a Software Engineer based in Colima, Mexico.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+From Philosophy to Software Engineering. I graduated from a B.A. in Philosophy. I'm passionate about learning, discovering and creating new things. 
 
-### Markdown
+[Resume](https://github.com/Gilberto-Felipe/cv)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My recent projects: 
+- Single-page for [Biomedi] (http://gilberto-ramirez.me/Biomedi/)
+- Single-page for [MapMonederoAcumulapuntos] (http://map.ghapps.com.mx/gilberto/)
+- Website for [AvilaCervantes Corporativo] (https://avilacervantes.com/)
+- Information management system for [Loro Fan App] ()
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gilberto-Felipe/Gilberto-Felipe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

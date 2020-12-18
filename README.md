@@ -4,7 +4,7 @@ I'm a Software Engineer based in Colima, Mexico.
 
 From Philosophy to Software Engineering. I graduated from a B.A. in Philosophy. I'm passionate about learning, discovering and creating new things. 
 
-[Resume](https://github.com/Gilberto-Felipe/cv)
+[Resume](http:gilberto-ramirez.me/cv)
 
 ### My recent projects: 
 - Single-page for [Biomedi] (http://gilberto-ramirez.me/Biomedi/)

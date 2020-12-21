@@ -10,7 +10,6 @@ I'm a Software Engineer based in Colima, Mexico. I'm passionate about discoverin
 - Single-page for [MapMonederoAcumulapuntos](http://map.ghapps.com.mx/gilberto/)
 - Website for [AvilaCervantes Corporativo](https://avilacervantes.com/)
 
-### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Puzzle Icon
-{: #puzzle}
+[](https://github.com/Gilberto-Felipe)
 
 

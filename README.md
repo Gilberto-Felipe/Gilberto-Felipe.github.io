@@ -10,11 +10,6 @@ I'm a Software Engineer based in Colima, Mexico. I'm passionate about discoverin
 - Single-page for [MapMonederoAcumulapuntos](http://map.ghapps.com.mx/gilberto/)
 - Website for [AvilaCervantes Corporativo](https://avilacervantes.com/)
 
-[<i class="fab fa-github-alt"></i>](https://github.com/Gilberto-Felipe) [<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/in/gilberto-felipe-ramirez-garcia/) [gramirez25@ucol.mx](<a href="mailto:someone@example.com"></a>)
-
-[github-alt]
-
-<i class="fab fa-github-alt"></i>
-
+<a href="{{ site.baseurl }}"><i class="fab fa-linkedin-in"></i>
 
 

@@ -1,6 +1,6 @@
 ## Welcome to Gilberto Ramirez's GitHub Page
 
-I'm a Software Engineer based in Colima, Mexico. I'm passionate about discovering, learning and creating new things. I enjoy reading, listening to music, and playing chess. 
+I'm a Software Engineer based in Colima, Mexico. I'm passionate about discovering, learning, and creating new things. I enjoy reading, listening to music, and playing chess. 
 
 [Resume](/cv) 
 

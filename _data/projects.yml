@@ -1,0 +1,16 @@
+- title: Information Management System
+  image: /assets/images/lorofan.png
+  text: It's a Dashboard with a CRUD to manage the information consumed by the mobile app of the soccer team of the University of Colima. 
+  href: http://lorofan.gilberto-ramirez.me/
+- title: Biomedi  
+  image: /assets/images/biomedi.png
+  text: It's the web page of the company Biomedi. Created with React, and EmailJS in the contact form.
+  href: http://gilberto-ramirez.me/Biomedi/
+- title: Map MonederoAcumulapuntos
+  image: /assets/images/mapmonedero.png
+  text: It was a single-page for the app Map - Monedero Acumula Puntos, a project of the company GHAPPS.
+  href: https://avilacervantes.com/
+- title: AvilaCervantes Corporativo
+  image: /assets/images/avilacervantes.png
+  text: It's the web page of the company. The company increased 100% its online presence. Created with Wordpress.
+  href: https://avilacervantes.com/

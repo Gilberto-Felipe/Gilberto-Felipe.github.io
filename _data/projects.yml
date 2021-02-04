@@ -6,10 +6,6 @@
   image: /assets/images/biomedi.png
   text: It's the web page of the company Biomedi. Created with React, and EmailJS in the contact form.
   href: http://gilberto-ramirez.me/Biomedi/
-- title: Map MonederoAcumulapuntos
-  image: /assets/images/mapmonedero.png
-  text: It was a single-page for the app Map - Monedero Acumula Puntos, a project of the company GHAPPS.
-  href: http://map.ghapps.com.mx/gilberto/
 - title: AvilaCervantes Corporativo
   image: /assets/images/avilacervantes.png
   text: It's the web page of the company. The company increased 100% its online presence. Created with Wordpress.
